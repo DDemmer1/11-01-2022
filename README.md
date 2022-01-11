@@ -5,7 +5,7 @@
 
 
 Erstellt aus folgendem UML Diagramm ein Programm. Der Inhalt der Methoden ist dabei egal, es geht nur um die Struktur des Programms.
-Es handelt sich hierbei um die [Benutzerrollen Hierachie von WordPress](https://wordpress.org/support/article/roles-and-capabilities/)
+Es handelt sich hierbei um die [Benutzerrollen-Hierachie von WordPress](https://wordpress.org/support/article/roles-and-capabilities/)
 
 ![UML](https://raw.githubusercontent.com/DDemmer1/11-01-2022/main/img/Screenshot%202022-01-11%20095531.jpg)
 
