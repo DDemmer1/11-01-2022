@@ -6,7 +6,7 @@
 
 Erstellt aus folgendem UML Diagramm ein Programm. Der Inhalt der Methoden ist dabei egal, es geht nur um die Struktur des Programms.
 
-![UML]https://raw.githubusercontent.com/DDemmer1/11-01-2022/main/img/Screenshot%202022-01-11%20095531.jpg)
+![UML](https://raw.githubusercontent.com/DDemmer1/11-01-2022/main/img/Screenshot%202022-01-11%20095531.jpg)
 
 
 ### ℹ️ Resourcen:
